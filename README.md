@@ -3,11 +3,18 @@ A music alarm clock based on a 51 single -chip machine.
 
 一个C51单片机实现的音乐闹钟。
 
+## 编译说明
+
+请根据实际使用的51单片机型号修改代码。
+
+本代码可使用Keil进行编译。
+
 ### Example:
 ![image](https://user-images.githubusercontent.com/34548095/227974853-45a47138-2993-46ae-a068-3b32bcb86e06.png)
 ![image](https://user-images.githubusercontent.com/34548095/227981843-f70dc13d-2453-4348-bebf-3de8b77d7fcd.png)
 
-## 使用说明
+## 实物or仿真使用说明
+
 ### 1.	按键
 
 K1 ：模式切换。 在时间、秒表，闹钟 0，闹钟 1，闹钟 2 间循环切换。
