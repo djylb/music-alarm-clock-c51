@@ -9,7 +9,7 @@ A music alarm clock based on a 51 single -chip machine.
 
 本代码可使用Keil进行编译。
 
-### Example:
+## 效果展示:
 ![image](https://user-images.githubusercontent.com/34548095/227974853-45a47138-2993-46ae-a068-3b32bcb86e06.png)
 ![image](https://user-images.githubusercontent.com/34548095/227981843-f70dc13d-2453-4348-bebf-3de8b77d7fcd.png)
 
