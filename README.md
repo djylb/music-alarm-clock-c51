@@ -1,6 +1,8 @@
 # Music-Alarm-Clock 音乐闹钟
 A music alarm clock based on a 51 single -chip machine.
 
+- [English](https://github.com/D-Jy-lab/music-alarm-clock-c51/blob/main/README-EN.md)
+
 一个C51单片机实现的音乐闹钟。
 
 ## 编译说明
