@@ -1,6 +1,8 @@
 # Music-Alarm-Clock
 A music alarm clock implemented using a 51 single-chip microcontroller.
 
+- [中文](https://github.com/D-Jy-lab/music-alarm-clock-c51/blob/main/README.md)
+
 ## Compilation Instructions
 
 Please modify the code according to the specific 51 microcontroller model you're using.
